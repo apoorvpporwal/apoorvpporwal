@@ -141,13 +141,6 @@ Data Processing
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=apoorvpporwal&label=PROFILE+VIEWS&color=0A0A0A&style=for-the-badge"/>
-
-</div>
-
 ---
 
 <div align="center">
