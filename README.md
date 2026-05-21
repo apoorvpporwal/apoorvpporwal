@@ -24,7 +24,11 @@
 
 ---
 
-<img align="right" alt="AI" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx6bzRkb3o4aHcxYTBhZjN3b2Q2cDJnNXM0c3d0cWZrM2h0aWhvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</div>
 
 #  ABOUT ME
 
