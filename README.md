@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Apoorv Porwal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Apoorv+Porwal;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+AI-Powered+Solutions" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
-Artificial Intelligence & Machine Learning Enthusiast
+AI • Machine Learning • NLP • Data Analysis
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Generative+AI+Explorer;Machine+Learning+Enthusiast;NLP+%7C+Data+Analysis;Building+Intelligent+Systems;Always+Learning+and+Experimenting" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative-AI-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-16A085?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -14,107 +23,113 @@ Artificial Intelligence & Machine Learning Enthusiast
 
 - 🎓 Computer Engineering Student
 - 🤖 Passionate about Artificial Intelligence and Generative AI
-- 📚 Currently learning:
+- 📚 Exploring:
   - Machine Learning
-  - Natural Language Processing (NLP)
-  - TensorFlow
-  - Data Analysis
+  - Natural Language Processing
   - Deep Learning
-- 🔍 Interested in building intelligent and data-driven applications
-- 💡 Exploring real-world AI solutions and automation systems
+  - Data Analysis
+  - TensorFlow & Scikit-Learn
+- 💡 Interested in building intelligent and scalable AI systems
+- 🚀 Continuously learning and experimenting with modern AI technologies
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/apoorv-porwal-b159b5285" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://leetcode.com/apoorv_porwal11" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
 </a>
 
 <a href="https://github.com/apoorvpporwal" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
-<p align="left">
+### 💻 Languages
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### AI / ML / Data Science
-<p align="left">
+### 🤖 AI / ML / Data Science
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-### Web & Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,flask,mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+### 🌐 Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,git,github,linux,vscode,docker" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apoorvpporwal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvpporwal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apoorvpporwal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvpporwal&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvpporwal&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=apoorvpporwal&theme=transparent&hide_border=true"/>
 
-# 🚀 Featured Interests
-
-- Generative AI
-- Machine Learning
-- Natural Language Processing
-- Deep Learning
-- Data Analysis
-- Intelligent Automation
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvpporwal&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvpporwal&theme=github-compact&hide_border=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apoorvpporwal&label=Profile%20Views&color=3B82F6&style=flat" alt="profile views" />
-</p>
+# 🚀 Areas of Interest
 
-<p align="center">
-⭐️ From <a href="https://github.com/apoorvpporwal">Apoorv Porwal</a>
-</p>
+- Generative AI
+- Machine Learning
+- Natural Language Processing
+- Deep Learning
+- Data Analytics
+- AI Automation
+- Intelligent Systems
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=apoorvpporwal&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<h3 align="center">
+⭐ Building the future with AI
+</h3>
