@@ -1,135 +1,140 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Apoorv+Porwal;Artificial+Intelligence+Enthusiast;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+AI-Powered+Solutions" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-AI • Machine Learning • NLP • Data Analysis
-</h3>
-
----
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative-AI-8E44AD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-16A085?style=for-the-badge" />
+# APOORV PORWAL
+
+### Artificial Intelligence • Machine Learning • Generative AI
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Exploring+Generative+AI;Building+Intelligent+Systems;Machine+Learning+%7C+NLP+%7C+Data+Analysis;Learning+and+Experimenting+Everyday" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```python
+class ApoorvPorwal:
 
-- 🎓 Computer Engineering Student
-- 🤖 Passionate about Artificial Intelligence and Generative AI
-- 📚 Exploring:
-  - Machine Learning
-  - Natural Language Processing
-  - Deep Learning
-  - Data Analysis
-  - TensorFlow & Scikit-Learn
-- 💡 Interested in building intelligent and scalable AI systems
-- 🚀 Continuously learning and experimenting with modern AI technologies
+    def __init__(self):
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "Natural Language Processing",
+            "Data Analysis",
+            "Deep Learning"
+        ]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C"
+        ]
+
+        self.current_focus = "Building AI-powered applications"
+
+    def learn(self):
+        return "Keep learning. Keep building."
+```
 
 ---
 
-# 🌐 Connect With Me
+#  ABOUT ME
 
-<p align="left">
-<a href="https://linkedin.com/in/apoorv-porwal-b159b5285" target="_blank">
+```yaml
+Name: Apoorv Porwal
+Role: AI/ML Enthusiast
+Education: Computer Engineering Student
+Focus:
+  - Generative AI
+  - Machine Learning
+  - NLP
+  - Data Analytics
+  - Intelligent Systems
+```
+
+---
+
+#  TECH STACK
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge"/>
+
+<br><br>
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,mysql,mongodb,flask" />
+
+</div>
+
+---
+
+#  CURRENTLY LEARNING
+
+```text
+> Machine Learning Algorithms
+> Deep Learning
+> NLP & Transformers
+> Generative AI Systems
+> TensorFlow
+> Data Processing Pipelines
+```
+
+---
+
+#  AREAS OF INTEREST
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+#  CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/apoorv-porwal-b159b5285">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/apoorv_porwal11" target="_blank">
+<a href="https://leetcode.com/apoorv_porwal11">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
 </a>
 
-<a href="https://github.com/apoorvpporwal" target="_blank">
+<a href="https://github.com/apoorvpporwal">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
-</p>
-
-### 🤖 AI / ML / Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-### 🌐 Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,git,github,linux,vscode,docker" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apoorvpporwal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvpporwal&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=apoorvpporwal&theme=transparent&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=apoorvpporwal&label=PROFILE+VIEWS&color=0A0A0A&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvpporwal&theme=github-compact&hide_border=true"/>
+### "Building intelligent systems with AI."
 
 </div>
-
----
-
-# 🚀 Areas of Interest
-
-- Generative AI
-- Machine Learning
-- Natural Language Processing
-- Deep Learning
-- Data Analytics
-- AI Automation
-- Intelligent Systems
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=apoorvpporwal&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-<h3 align="center">
-⭐ Building the future with AI
-</h3>
